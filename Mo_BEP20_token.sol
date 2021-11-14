@@ -1,8 +1,7 @@
 pragma solidity 0.5.16;
 /**
-Author: Dr. Mohammadreza Ahouri
-Email: ashourics@gmail.com
-Web: https://ashoury.de
+Author: Luiz Carvalho
+Email: luizcarvalhohen@gmail.com
 
 2021  https://securecontract.io
 
